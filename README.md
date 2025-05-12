@@ -1,2 +1,2 @@
 # little-project
-A fun little SF project.
+A fun little San Francisco project.
